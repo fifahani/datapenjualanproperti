@@ -1,0 +1,101 @@
+ID_Pelanggan,Gender,Usia,Pendapatan_Jutaan,Luas _m2,Ruangan ,Kamar mandi ,Pembelian 
+1,Pria,19,15,40.5,2,2,Tidak Beli
+2,Pria,21,15,53,3,4,Tidak Beli
+3,Wanita,20,16,28,1,2,Tidak Beli
+4,Wanita,23,16,64,3,2,Tidak Beli
+5,Wanita,31,17,47.8,2,1,Tidak Beli
+6,Wanita,22,17,27.8,2,3,Tidak Beli
+7,Wanita,35,18,73.22,3,3,Tidak Beli
+8,Wanita,23,18,48,2,3,Tidak Beli
+9,Pria,64,19,59,3,1,Beli
+10,Wanita,30,19,21,1,2,Tidak Beli
+11,Pria,67,19,21,1,1,Tidak Beli
+12,Wanita,35,19,110,3,3,Beli
+13,Wanita,58,20,51.7,3,2,Tidak Beli
+14,Wanita,24,20,54.03,3,2,Tidak Beli
+15,Pria,37,20,61,2,2,Tidak Beli
+16,Pria,22,20,181,8,1,Beli
+17,Wanita,35,21,114,4,2,Beli
+18,Pria,20,21,38,2,2,Tidak Beli
+19,Pria,52,23,24.6,1,2,Tidak Beli
+20,Wanita,35,23,90,3,2,Beli
+21,Pria,35,24,89.88,5,1,Tidak Beli
+22,Pria,25,24,27,1,2,Tidak Beli
+23,Wanita,46,25,120,4,1,Beli
+24,Pria,31,25,27,1,2,Tidak Beli
+25,Wanita,54,28,103.6,3,2,Tidak Beli
+26,Pria,29,28,77.73,2,2,Tidak Beli
+27,Wanita,45,28,114,3,2,Beli
+28,Pria,35,28,70.9,3,1,Tidak Beli
+29,Wanita,40,29,31.47,1,2,Tidak Beli
+30,Wanita,23,29,50.5,2,2,Tidak Beli
+31,Pria,60,30,49.96,2,2,Tidak Beli
+32,Wanita,21,30,50,2,1,Tidak Beli
+33,Pria,53,33,49.96,2,2,Tidak Beli
+34,Pria,18,33,71.3,2,3,Tidak Beli
+35,Wanita,49,33,100,4,1,Beli
+36,Wanita,21,33,78.49,3,2,Tidak Beli
+37,Wanita,42,34,50,2,2,Tidak Beli
+38,Wanita,30,34,69.33,2,2,Tidak Beli
+39,Wanita,36,37,182,4,1,Beli
+40,Wanita,20,37,67.2,3,2,Tidak Beli
+41,Wanita,65,38,79,4,1,Beli
+42,Pria,24,38,64,2,2,Beli
+43,Pria,48,39,103,5,2,Beli
+44,Wanita,31,39,68.59,2,2,Tidak Beli
+45,Wanita,49,39,154.5,6,2,Tidak Beli
+46,Wanita,24,39,70,3,2,Beli
+47,Wanita,50,40,73,3,2,Beli
+48,Wanita,27,40,95.5,5,1,Tidak Beli
+49,Wanita,29,40,170,5,2,Beli
+50,Wanita,31,40,43,2,2,Tidak Beli
+51,Wanita,49,43,42,2,2,Beli
+52,Pria,33,42,91,3,1,Beli
+53,Wanita,31,43,31.47,2,2,Tidak Beli
+54,Pria,59,43,80,3,2,Beli
+55,Wanita,50,43,71.04,4,2,Tidak Beli
+56,Pria,47,43,93,5,1,Beli
+57,Wanita,51,44,77,3,1,Beli
+58,Pria,69,44,77,3,2,Beli
+59,Wanita,27,46,77,3,2,Beli
+60,Pria,53,46,77,3,2,Beli
+61,Pria,70,46,77,3,2,Beli
+62,Pria,19,46,77,3,1,Beli
+63,Wanita,67,47,29.48,2,2,Beli
+64,Wanita,54,47,141.4,3,2,Tidak Beli
+65,Pria,63,48,14.81,1,1,Beli
+66,Pria,18,48,17.09,1,2,Tidak Beli
+67,Wanita,43,48,18.42,1,1,Tidak Beli
+68,Wanita,68,48,104.25,4,2,Beli
+69,Pria,19,48,145.41,2,1,Tidak Beli
+70,Wanita,32,48,32.94,2,2,Tidak Beli
+71,Pria,70,49,80.3,3,2,Beli
+72,Wanita,47,49,23.3,1,1,Tidak Beli
+73,Wanita,60,50,80.3,3,2,Beli
+74,Wanita,60,50,25.57,1,1,Beli
+75,Pria,59,54,14.03,1,2,Beli
+76,Pria,26,54,67.92,3,2,Tidak Beli
+77,Wanita,45,54,94,3,2,Beli
+78,Pria,40,54,64,3,1,Beli
+79,Wanita,23,54,28,2,2,Tidak Beli
+80,Wanita,49,54,84,3,1,Beli
+81,Pria,57,54,58,3,2,Beli
+82,Pria,38,54,80,3,2,Beli
+83,Pria,67,54,64,2,2,Beli
+84,Wanita,46,54,31,1,1,Tidak Beli
+85,Wanita,21,54,70.8,3,2,Tidak Beli
+86,Pria,48,54,58,3,1,Beli
+87,Wanita,55,57,74.51,3,1,Beli
+88,Wanita,22,57,62,2,1,Beli
+89,Wanita,34,58,35,2,3,Tidak Beli
+90,Wanita,50,58,61,2,1,Beli
+91,Wanita,68,59,57,3,1,Beli
+92,Pria,18,59,41.84,2,2,Tidak Beli
+93,Pria,48,60,26.05,1,2,Beli
+94,Wanita,40,60,42,2,2,Beli
+95,Wanita,32,60,41.5,1,2,Tidak Beli
+96,Pria,24,60,58,3,1,Beli
+97,Wanita,47,60,28.06,2,1,Beli
+98,Wanita,27,60,28,2,2,Tidak Beli
+99,Pria,48,61,54,3,1,Beli
+100,Pria,20,61,39.71,2,2,Tidak Beli
